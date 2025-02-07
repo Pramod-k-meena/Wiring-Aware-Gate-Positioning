@@ -1,0 +1,6 @@
+bounding_box 2 3
+wire_length 6
+g1 0 0
+g2 1 0
+g3 0 1
+g4 0 2

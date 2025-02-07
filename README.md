@@ -1,2 +1,2 @@
 # Wiring-Aware-Gate-Positioning
-This assignment addresses wiring-aware gate positioning, aiming to place rectangular gates on a 2D plane to minimize wire length (Manhattan distance). Simulated annealing is used to iteratively optimize placement.
+This assignment focuses on wiring-aware gate positioning, aiming to place rectangular logic gates on a 2D plane. Each gate has pins on its boundaries, and the objective is to minimize the total wire length, measured using the Manhattan distance between connected pins. The problem is solved using simulated annealing, an optimization technique that iteratively reduces wire length to achieve near-optimal gate placement.

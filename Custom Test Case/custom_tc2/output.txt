@@ -1,0 +1,6 @@
+bounding_box 157 193
+wire_length 0
+g1 154 190
+g2 151 189
+g3 148 188
+g4 145 187
